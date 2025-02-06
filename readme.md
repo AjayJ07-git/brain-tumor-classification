@@ -1,4 +1,4 @@
-```md
+
 # Brain Tumor Detection using ResNet-50
 
 This repository contains a deep learning-based web application for **brain tumor classification** using a **ResNet-50** model. The model classifies MRI images into four categories: **Glioma, Meningioma, No Tumor, and Pituitary**.
